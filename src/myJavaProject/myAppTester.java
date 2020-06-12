@@ -44,4 +44,9 @@ public class myAppTester {
 	 
 	   */
              my name is aman
+              public static void aman()
+         {
+            int a=15;
+
+          }
 }
