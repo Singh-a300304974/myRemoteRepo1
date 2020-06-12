@@ -47,6 +47,7 @@ public class myAppTester {
               public static void aman()
          {
             int a=15;
-
+       int  c=0;
+             System.out.print("xxxxxxxxx");
           }
 }
